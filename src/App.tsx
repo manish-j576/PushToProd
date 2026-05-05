@@ -1,4 +1,4 @@
-
+import Mann from "./assets/Mann.png"
 function App() {
   return (
     <div style={{ fontSize: "32px", padding: "55px" }}>
@@ -10,7 +10,7 @@ function App() {
       <br />
       <h1>This is my photo</h1>
       <br />
-      <img width={400} src="/Mann.JPG" alt="ss" />
+      <img width={400} src={Mann} alt="ss" />
       <br />
       <br />
 
