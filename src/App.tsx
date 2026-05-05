@@ -2,11 +2,7 @@
 function App() {
   return (
     <div style={{fontSize : "32px" , padding : "55px"}}>
-      Hi There I am Manish Joshi
-      <br />
-      <br />
-      <br />
-      I am going to earn 84LPA
+      Hi There I am Manish 
       <br />
       <br />
       <br />
